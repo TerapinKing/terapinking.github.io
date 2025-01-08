@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 38px;
+    padding-bottom: 25px;
+}
+
+.link {
+    color: rgb(2, 185, 33);
+}
